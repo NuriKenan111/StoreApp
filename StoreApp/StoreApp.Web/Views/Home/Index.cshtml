@@ -1,5 +1,8 @@
 @model ProductListViewModel
 
+@if(Model.Products.Count() == 0){
+    <h1>No Products</h1>
+}
 @foreach (var product in Model.Products){
     <div>
         <h1>@product.Name</h1>
@@ -7,4 +10,3 @@
         <p>@product.Price</p>
     </div>
 }
-<h5>Hello My World</h5>

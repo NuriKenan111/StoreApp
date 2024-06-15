@@ -7,21 +7,24 @@ namespace StoreApp.Web.Controllers;
 public class HomeController : Controller
 {
     private IStoreRepository _storeRepository;
-
+    public int pageSize = 3;
     public HomeController(IStoreRepository storeRepository)
     {
         _storeRepository = storeRepository;
     }
     
-    public IActionResult Index()
+    public IActionResult Index(int page = 1)
     {
-        var products = _storeRepository.Products.Select(x => new ProductViewModel{
+        var products = _storeRepository
+        .Products
+        .Skip((page - 1) * pageSize)
+        .Select(x => new ProductViewModel{
             Id = x.Id,
             Name = x.Name,
             Category = x.Category,
             Description = x.Description,
             Price = x.Price
-        }).ToList();
+        }).Take(pageSize);
 
         return View(new ProductListViewModel {
             Products = products
