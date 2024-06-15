@@ -56,7 +56,7 @@
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -123,10 +123,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.Data.Sqlite": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -139,7 +135,7 @@
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [

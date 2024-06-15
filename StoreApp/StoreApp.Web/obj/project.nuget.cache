@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "vA84rvgoYvVWppCXfNHSfNKo+LRi2udLIFbYaiyO9qf6uA+HwQ1dI1zC91Aga/2S4lYYJ/8rjT7PtgtXdiFy8Q==",
-  "success": false,
+  "dgSpecHash": "IsaVYGmMT3XeYz+Ch+v9A9jjaNuqkimFrYsLxFJp8LhLx+rJrDSAoZCE9ES8kwlSYFZQFJDJmyLglmuNBmGlSA==",
+  "success": true,
   "projectFilePath": "/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Web/StoreApp.Web.csproj",
   "expectedPackageFiles": [
     "/Users/kenan/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
@@ -11,15 +11,14 @@
     "/Users/kenan/.nuget/packages/microsoft.codeanalysis.csharp/4.5.0/microsoft.codeanalysis.csharp.4.5.0.nupkg.sha512",
     "/Users/kenan/.nuget/packages/microsoft.codeanalysis.csharp.workspaces/4.5.0/microsoft.codeanalysis.csharp.workspaces.4.5.0.nupkg.sha512",
     "/Users/kenan/.nuget/packages/microsoft.codeanalysis.workspaces.common/4.5.0/microsoft.codeanalysis.workspaces.common.4.5.0.nupkg.sha512",
-    "/Users/kenan/.nuget/packages/microsoft.data.sqlite/8.0.0/microsoft.data.sqlite.8.0.0.nupkg.sha512",
-    "/Users/kenan/.nuget/packages/microsoft.data.sqlite.core/8.0.6/microsoft.data.sqlite.core.8.0.6.nupkg.sha512",
+    "/Users/kenan/.nuget/packages/microsoft.data.sqlite.core/8.0.0/microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
     "/Users/kenan/.nuget/packages/microsoft.entityframeworkcore/8.0.0/microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "/Users/kenan/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.0/microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
     "/Users/kenan/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.0/microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
     "/Users/kenan/.nuget/packages/microsoft.entityframeworkcore.design/8.0.0/microsoft.entityframeworkcore.design.8.0.0.nupkg.sha512",
-    "/Users/kenan/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.6/microsoft.entityframeworkcore.relational.8.0.6.nupkg.sha512",
-    "/Users/kenan/.nuget/packages/microsoft.entityframeworkcore.sqlite/8.0.6/microsoft.entityframeworkcore.sqlite.8.0.6.nupkg.sha512",
-    "/Users/kenan/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/8.0.6/microsoft.entityframeworkcore.sqlite.core.8.0.6.nupkg.sha512",
+    "/Users/kenan/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.0/microsoft.entityframeworkcore.relational.8.0.0.nupkg.sha512",
+    "/Users/kenan/.nuget/packages/microsoft.entityframeworkcore.sqlite/8.0.0/microsoft.entityframeworkcore.sqlite.8.0.0.nupkg.sha512",
+    "/Users/kenan/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/8.0.0/microsoft.entityframeworkcore.sqlite.core.8.0.0.nupkg.sha512",
     "/Users/kenan/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "/Users/kenan/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "/Users/kenan/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
@@ -52,15 +51,5 @@
     "/Users/kenan/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
     "/Users/kenan/.nuget/packages/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Warning As Error: Microsoft.EntityFrameworkCore paketi için 8.0.6 sürümünden 8.0.0 sürümüne düşürme algılandı. Farklı bir sürüm seçmek için doğrudan projeden pakete başvurun. \n StoreApp.Web -> Microsoft.EntityFrameworkCore.Sqlite 8.0.6 -> Microsoft.EntityFrameworkCore.Sqlite.Core 8.0.6 -> Microsoft.EntityFrameworkCore.Relational 8.0.6 -> Microsoft.EntityFrameworkCore (>= 8.0.6) \n StoreApp.Web -> Microsoft.EntityFrameworkCore (>= 8.0.0)",
-      "libraryId": "Microsoft.EntityFrameworkCore",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

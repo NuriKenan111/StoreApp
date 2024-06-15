@@ -1,0 +1,15 @@
+/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Data/bin/Debug/net8.0/StoreApp.Data.deps.json
+/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Data/bin/Debug/net8.0/StoreApp.Data.runtimeconfig.json
+/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Data/bin/Debug/net8.0/StoreApp.Data.dll
+/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Data/bin/Debug/net8.0/StoreApp.Data.pdb
+/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Data/obj/Debug/net8.0/StoreApp.Data.csproj.AssemblyReference.cache
+/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Data/obj/Debug/net8.0/StoreApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Data/obj/Debug/net8.0/StoreApp.Data.AssemblyInfoInputs.cache
+/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Data/obj/Debug/net8.0/StoreApp.Data.AssemblyInfo.cs
+/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Data/obj/Debug/net8.0/StoreApp.Data.csproj.CoreCompileInputs.cache
+/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Data/obj/Debug/net8.0/StoreApp.Data.sourcelink.json
+/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Data/obj/Debug/net8.0/StoreApp.Data.dll
+/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Data/obj/Debug/net8.0/refint/StoreApp.Data.dll
+/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Data/obj/Debug/net8.0/StoreApp.Data.pdb
+/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Data/obj/Debug/net8.0/StoreApp.Data.genruntimeconfig.cache
+/Users/kenan/Desktop/StoreApp/StoreApp/StoreApp.Data/obj/Debug/net8.0/ref/StoreApp.Data.dll
